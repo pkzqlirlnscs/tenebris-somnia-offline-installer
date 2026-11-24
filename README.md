@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+An engaging horror game featuring immersive gameplay, rich mechanics, and hours of entertainment. Experience Tenebris Somnia in its full glory.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Win7 64Bit/Win8 Win8.1 64Bit/Win10 64Bit | macOS 11.0 or later |
+| **Processor** | Min: Intel G620 or AMD X2 280 /AMD(APU) A6 9500 / Rec: Intel Core I5 6500 / AMD CPU FX8350 | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: Nvidia GeForce GTX750 /AMD GPU Radeon HD 6850 / Rec: Nvidia GeForce GTX960/1060 /AMD GPU RadeonR9 290 | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 3 GB available space | 3 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
 
 ---
 
